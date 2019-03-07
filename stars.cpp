@@ -1,4 +1,5 @@
-// Something to write about in c++ file
+// Animating Stars in the CLI environemnt.
+//
 
 #include <iostream>
 #include <iomanip>
