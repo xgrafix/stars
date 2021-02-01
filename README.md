@@ -1,2 +1,2 @@
 # Stars
-Animating Stars in the CLI envoironment.
+Animating Stars in the Command Line envoironment.
